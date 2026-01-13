@@ -1,1 +1,3 @@
-# The-Chairman-Paradox
+# The-Chairman-Paradox and Proper Equilibrium
+
+The Chairman Paradox is a classical observation in voting games showing that a Chairman endowed with tie-breaking power might end up with her worst outcome. The analysis posits three players whose preferences build a Condorcet cycle and invokes Iterated Elimination of Weakly Dominated Strategies (IEWDS) to select a unique equilibrium. We generalize this game to the one with $m$ voters of each type and prove that set of all proper equilibria contains a profile with the worst outcome for the Chairmen. We also prove that if Chairmen are always voting for their most preferred alternative, which has support from real life observations, then set of proper equilibria contains only profiles in which the worst alternative for Chairmen wins.
